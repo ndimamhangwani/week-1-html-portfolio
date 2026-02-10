@@ -36,3 +36,6 @@ Ndima Karabo Mhangwani
 <img width="1800" height="800" alt="portfolio view" src="https://github.com/user-attachments/assets/2a83679d-738f-43fc-9bee-6bdc2b10b767" />
 <img width="1800" height="800" alt="portfolio view" src="https://github.com/user-attachments/assets/77a1eb0d-6e58-4a7a-a60b-a43d801077fe" />
 
+## W3C validation screenshot
+
+<img width="1800" height="800" alt="image" src="https://github.com/user-attachments/assets/927dc1b7-5b6e-4720-b5c1-e66ddfa9223a" />
